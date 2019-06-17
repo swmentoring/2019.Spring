@@ -8,7 +8,6 @@
 C언어, 파이썬 개별 배포
 
 ## 각종문의
-ykchoi@sejong.ac.kr 이메일 
 조교 김지원 (@socome / jwkim@rcv.sejong.ac.kr)
 
 ## 멘토링 명단
